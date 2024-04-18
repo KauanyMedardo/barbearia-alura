@@ -1,14 +1,15 @@
-body{
-background-color: rgb(0, 0, 0);
-color:white ;
-text-align: center;
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
 }
 
-h1{
+h1 {
 
     text-align: center;
     background-color: rgb(12, 137, 175);
 }
-em strong{
+
+em strong {
     color: rgb(24, 97, 233);
 }
