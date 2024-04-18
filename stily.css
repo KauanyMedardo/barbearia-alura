@@ -9,4 +9,6 @@ h1{
     text-align: center;
     background-color: rgb(12, 137, 175);
 }
-
+em strong{
+    color: rgb(43, 96, 194);
+}
