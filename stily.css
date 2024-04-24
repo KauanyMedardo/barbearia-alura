@@ -9,6 +9,7 @@ h1 {
 
     text-align: center;
     background-color: rgb(12, 137, 175);
+    border: 5px rgb(104, 104, 240) solid;
 }
 
 em strong {
