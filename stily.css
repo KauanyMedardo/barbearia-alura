@@ -2,7 +2,7 @@ body {
     background-color: rgb(0, 0, 0);
     color: white;
     text-align: center;
-    border: 5px rgb(12, 137, 175) solid;
+    border: 5px rgb(5, 108, 139) solid;
 }
 
 .sim {
@@ -14,7 +14,7 @@ body {
 }
 
 em strong {
-    color: rgb(24, 97, 233);
+    color: rgba(24, 167, 233, 0.952);
 }
 #banner{
     width: 70%;
