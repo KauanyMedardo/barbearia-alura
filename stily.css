@@ -24,7 +24,7 @@ em strong {
     text-align: left;
 }
 .Benefícios{
-    padding: 40px;
+    padding: 20px;
 }
 h2{
   text-align: center;
@@ -40,5 +40,5 @@ ul{
     width: 20%;
     margin-right: 15%;
     border: 3px solid rgb(30, 111, 158);
-
+    padding-left:30px ;
 }
