@@ -26,6 +26,7 @@ em strong {
 .Benefícios{
     padding: 20px;
 }
+
 h2{
   text-align: center;
 
@@ -34,7 +35,8 @@ h2{
 .imagembeneficios{
     width: 50%;
 }
-ul{
+
+ul li{
     display: inline-block;
     vertical-align: top;
     width: 20%;
