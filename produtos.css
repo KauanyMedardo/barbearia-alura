@@ -49,10 +49,10 @@ nav a:hover{
     border-radius: 30px;
 }
 .produtos li:hover {
-    border-color: #C78C19;
+    border-color: #19a4c7;
  }
  .produtos li:active {
-    border-color: #088C19;    
+    border-color: #6fddff;    
  }
  
  .produtos li:hover h2 {
