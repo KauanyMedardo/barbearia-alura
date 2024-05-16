@@ -9,12 +9,12 @@ body {
 
     text-align: center;
     background-color: rgb(0, 0, 0);
-    border: 5px  rgba(124, 198,241, 0.952) solid;
+    border: 5px  rgba(196, 196, 196, 0.952) solid;
 
 }
 
 em strong {
-    color: rgba(95, 188, 241, 0.952);
+    color: rgba(153, 153, 153, 0.952);
 }
 #banner{
     width: 70%;
