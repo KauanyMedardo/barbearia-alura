@@ -59,11 +59,12 @@ h1 {
     width: 50%;
     display: inline-block;
     vertical-align: top;
-    text-decoration: none;
+
 }
 
 .itens {
     line-height: 1.5;
+    text-align: center;
 }
 
 .itens:first-child {
