@@ -67,9 +67,6 @@ h1 {
     font-weight: bold;
 }
 
-.itens:before {
-    content: "*";
-}
 
 .imagembeneficios {
     width: 40%;
