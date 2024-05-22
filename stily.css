@@ -23,7 +23,7 @@ em strong {
     text-align: left;
 }
 
-.Benefícios {
+.beneficios {
     padding: 20px;
 
 }
@@ -33,9 +33,6 @@ h2 {
 
 }
 
-.imagembeneficios {
-    width: 50%;
-}
 
 ul {
     display: inline-block;
@@ -59,7 +56,6 @@ h1 {
     width: 50%;
     display: inline-block;
     vertical-align: top;
-
 }
 
 .itens {
